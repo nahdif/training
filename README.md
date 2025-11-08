@@ -1,6 +1,7 @@
-# training
+# membuat project menggunakan flutter
 
-A new Flutter project.
+
+
 
 ## Getting Started
 
